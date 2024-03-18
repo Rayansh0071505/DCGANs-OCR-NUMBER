@@ -15,14 +15,14 @@ DCGAN Consisr of two neural networks -
 - Generator does not `see` the real images,it only learn through feedback from the Discriminator.
 - The goal of the Generator is to decive the Discriminator by generating increasingly realistic fake image, while the goal of the Discriminator is to correctly identify real and fake images.
 
-![image.png](attachment:image.png)
+<img width="1176" alt="image" src="https://github.com/Rayansh0071505/DCGANs-OCR-NUMBER/assets/98272246/2184b0ec-a654-4f67-9110-a4e530d043d6">
 
 
 
 ## Introduction
 
 This project leverages Deep Convolutional Generative Adversarial Networks (DCGANs) to perform Optical Character Recognition (OCR) on number datasets. Our goal is to demonstrate how DCGANs can be effectively used to enhance OCR tasks, particularly in recognizing numeric data from various sources. This repository includes a comprehensive notebook that details the process from start to finish, including code snippets and step-by-step explanations.
-![image.png](attachment:image.png)
+<img width="1196" alt="image" src="https://github.com/Rayansh0071505/DCGANs-OCR-NUMBER/assets/98272246/9598f318-0a41-4db1-b127-d8f70e990cc7">
 
 ## Features
 
